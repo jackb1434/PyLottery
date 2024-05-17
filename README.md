@@ -35,6 +35,9 @@ When you start the program you are greeted with a the main menu. From there you 
 [4]: Exit the program
 
 
+This project is based off the chapter 7 lottery ticket project.
+
+
 When you generate a ticket, the program will generate a 7 length list of integers and then
 generate a new ticket called temp_ticket which will compare your ticket to the temp_ticket. 
 If they match, you win a cash prize from $0-999999. Winning is determined by generating 2 random
