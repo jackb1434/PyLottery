@@ -39,3 +39,6 @@ When you generate a ticket, the program will generate a 7 length list of integer
 generate a new ticket called temp_ticket which will compare your ticket to the temp_ticket. 
 If they match, you win a cash prize from $0-999999. Winning is determined by generating 2 random
 numbers, and if they match, you win. The odds are out of 9.
+
+Demonstration video:
+https://youtu.be/CvhEmDntcHM
