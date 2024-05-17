@@ -2,6 +2,9 @@
 
 ### School Project :)
 
+
+![image info](./images/img1.png)
+
 ##### Dependencies:
 Colorama - colored console text
 tqdm - loading bar
